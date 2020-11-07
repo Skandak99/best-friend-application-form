@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Cute+Font&display=swap');
+h1{
+    font-family: 'Cute Font', cursive;
+}
+@import url('https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@813&display=swap');
+p{
+    font-family: 'Grenze Gotisch', cursive;
+    font-weight: 700;
+    font-size: 105%;
+}
+@import url('https://fonts.googleapis.com/css2?family=MuseoModerno:wght@500&display=swap');
+form{
+    font-family: 'MuseoModerno', cursive;
+}
+section{
+    width: 500px;
+    background-color: white;
+    margin: auto;
+    padding: 10px 0px;
+}
+body{
+    background: url(" https://i1.faceprep.in/ProGrad/minion-background.png") no-repeat;
+    
+    background-size: 100% 100%;
+}
+div{
+    text-align: center;
+}
+p,
+input[type="number"], 
+input[type="text"], 
+textarea, 
+form
+{
+    width: 350px;
+  padding: 8px;
+ }
+ input, textarea{
+     margin: 10px 0px;
+ }
+ label{
+     font-weight: bold;
+ }
+
+form,p{
+    margin: auto;
+}
+
+
+input[type="submit"]{
+    background-color: #1e90ff;
+    color: #ffffff;
+    margin: auto;
+    display: block;
+    width: 150px;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 5px;
+    font-weight: bold;
+    font-size: 17.5px;
+    border: none;
+
+}
+
+
+input[type="submit"]:hover{
+    cursor: pointer;
+    border: 5px solid yellow;
+}
+h1{
+    font-size: 70px;
+    padding: 50px;
+    margin-top: -50px;
+}
+
+img{
+    margin-top: -100px;
+}
+
+   body{
+       margin: 100px;
+   }
+   input[type="checkbox"]{
+       margin: 0px 5px;
+   }
